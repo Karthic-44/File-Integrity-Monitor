@@ -25,9 +25,9 @@ It also ensures the trustworthiness of the system, minimizing the impact of secu
 
 ## Monitoring
 
-![monitoring2](https://github.com/user-attachments/assets/46000366-00a4-44f2-852b-00b079ae6e9d)
-
 ![monitoring](https://github.com/user-attachments/assets/50240cef-598f-4747-b9eb-6980d207378f)
+
+![monitoring2](https://github.com/user-attachments/assets/46000366-00a4-44f2-852b-00b079ae6e9d)
 
 ## Log
 
